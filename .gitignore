@@ -1,0 +1,6 @@
+__pycache__/
+_verify/
+*.pyc
+~$*.docx
+.~lock.*#
+_pagemap.json
